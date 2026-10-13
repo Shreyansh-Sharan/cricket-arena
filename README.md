@@ -17,19 +17,15 @@ The site is a single page: `#/` is the game's menu, and the same query parameter
 ## Controls
 
 - Hold a direction: `W` `A` `S` `D` or arrows (8 ways, none = natural shot). The wedge on the ground shows where it goes
-- Press when the ring turns green: `J` defend · `K` along the ground · `L` lofted
+- Press when the ring turns green: `J` defend · `K` along the ground · `L` lofted · `H` leave
 - Hold `Shift` front foot · `Space` back foot · `T` charge the spinner
-- `R` run · `F` stay / back to the crease
-- `1`–`6` delivery: seam, swing, bouncer, yorker, slower ball; off-break, leg-break, googly, arm ball, top-spinner
-- `WASD` place the pitch marker · `Space` run in, `Space` again in the green
-- `F` field: attacking, normal, defensive, death · `V` over/round the wicket
-- send()}> `` ov ·
-- Hold a direction with `W` `A` `S` `D` or the arrows: the wedge on the ground shows where the shot will go. No direction plays the natural shot.
-- Hold `Shift` for the front foot, `Space` for the back foot. Then `R` runs and `F` sends him back.
-- Pick a delivery with `1`–`6` (or `Q`/`E`). Its name shows big on the right.
-- Place the yellow marker with `W` `A` `S` `D`. The bands on the pitch are the lengths: yorker, full, good, short.
-- Run in and release. `Space` starts the run-up; press `Space` again when the needle is in the green. Too late and it is a no-ball.
-- `F` changes the field, `V` goes round the wicket. While they run, `J` throws to the keeper and `L` to the bowler.
+- Calls: `R` yes · `F` no · `G` wait. On a phone, the thumb pad and buttons do the same
+- `WASD` or tap the pitch to place the marker · `Space` run in, `Space` again as the needle crosses the green on the arc (the bright middle swings late)
+- `G` field editor: drag fielders to named positions under the powerplay rules · `F` preset · `V` over/round the wicket
+- Pick a direction with `W` `A` `S` `D` (8 ways, or the pad). `Shift` front foot, `Space` back foot: drive, cut, pull, hook, sweep, flick.
+- Calls: `R` yes, `F` no, `G` wait. `I` instant replay.
+- Aim the marker with `W` `A` `S` `D` or by tapping the pitch: the bands are yorker, full, good and short.
+- `G` field editor, `F` next field preset, `V` round the wicket. While they run, `J` throws to the keeper and `L` to the bowler.
 
 ## Ads and gear
 
