@@ -2,7 +2,7 @@
 
 T20, T10, a 5-over Blitz or a Super Over between fictional sides, from over the batter's shoulder or the classic broadcast view. See where the ball will pitch, hold a direction and time your shot as the ring closes; place a marker on the length bands and hit the green on the run-up meter. Swing, seam and spin off green, flat or dusty pitches, diving fielders, run outs, DRS ball-tracking and replays. Practice nets, the CPU or a friend online.
 
-Built with three.js · Ball physics · Online 1v1. Part of [Shreyansh Sharan's portfolio](https://shreyansh-sharan.github.io/shreyanshsharan-portfolio/), split into its own site.
+Built with three.js · Ball physics · Online 1v1. Part of [Shreyansh Sharan's portfolio](https://shreyanshsharan.com/), split into its own site.
 
 ```bash
 npm install
